@@ -19,7 +19,7 @@ NodeJs都会默认安装npm(包管理工具),所以不需要单独安装npm。
 安装结束后，检查环境变量是否正确配置：
 
 <div align=left>
-<img src=F:\BaiduNetdiskWorkspace\MyGitBook\常用软件安装教程\img\01.png />
+<img src=.\img\01.png />
 </div>
 
 ### 1.2 安装GitBook
@@ -37,7 +37,7 @@ gitbook -V
 ```
 
 <div align=left>
-<img src=F:\BaiduNetdiskWorkspace\MyGitBook\常用软件安装教程\img\02.png />
+<img src=.\img\02.png />
 </div>
 
 ### 1.3 GitBook基本使用
