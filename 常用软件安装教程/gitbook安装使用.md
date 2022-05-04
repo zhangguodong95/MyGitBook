@@ -19,7 +19,7 @@ NodeJs都会默认安装npm(包管理工具),所以不需要单独安装npm。
 安装结束后，检查环境变量是否正确配置：
 
 <div align=left>
-<img src=.\img\01.png />
+<img src=https://github.com/zhangguodong95/MyGitBook/blob/main/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/img/01.png?raw=true />
 </div>
 
 ### 1.2 安装GitBook
@@ -75,3 +75,7 @@ gitbook build #在本地生成电子书html文件
 4. 然后在gitbook上发布电子书，就可以得到一个域名，任何地方都可以访问了
 
 以后如果我们在本地有修改，上传到github上，内容也会自动同步到gitbook网站上，只要重新发布修改的内容就会更新电子书。
+
+## 3. 参考
+
+[gitbook安装使用看完这一篇就够了](https://blog.csdn.net/YunWQ/article/details/120197926)
