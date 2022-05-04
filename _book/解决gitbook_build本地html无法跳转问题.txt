@@ -1,4 +1,0 @@
-将_book/gitbook文件夹下thems.js中的
-if(m)for(n.handler&&
-if(m)改成
-if(false)
